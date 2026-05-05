@@ -364,6 +364,7 @@ body {
     height: 50px;
     background-color: #000;
     text-align: center;
+    padding: 5px;
 }
 
 .copy p {
